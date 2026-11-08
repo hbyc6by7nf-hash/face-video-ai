@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data: personal photos, source video, model weights, renders
+input/
+output/
+models/*.onnx
+models/*.part
